@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @neverhelper
+- 👀 I’m interested in doom and minecraft
+- 🌱 I’m currently learning PHP
+- 😄 Pronouns: he-him-his
